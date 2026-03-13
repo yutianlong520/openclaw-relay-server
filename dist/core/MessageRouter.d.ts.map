@@ -1,0 +1,1 @@
+{"version":3,"file":"MessageRouter.d.ts","sourceRoot":"","sources":["../../src/core/MessageRouter.ts"],"names":[],"mappings":"AAYA,qBAAa,aAAa;IAElB,aAAa,CAAC,YAAY,EAAE,MAAM,EAAE,IAAI,EAAE,MAAM,GAAG,OAAO,CAAC,IAAI,CAAC;YAgDxD,UAAU;YAkCV,iBAAiB;IA0C/B,OAAO,CAAC,UAAU;YAWJ,gBAAgB;YAiBhB,aAAa;IAgB3B,OAAO,CAAC,SAAS;IASjB,OAAO,CAAC,OAAO;CAWhB;;AAED,wBAAmC"}
